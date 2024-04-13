@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47wwqw7g8a6of5k4x2m5a1zfjuyron8chrrt0zvsz3&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+  <img height="150" src="https://camo.githubusercontent.com/9bdb35c3614631680444a4808123bc8f59e8b76e45cd885337264eed5adda7d8/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f3249756455486449303735484c3032506b6b2f67697068792e6769663f6369643d65636630356534377777717737673861366f66356b3478326d3561317a666a7579726f6e386368727274307a76737a332665703d76315f676966735f736561726368267269643d67697068792e6769662663743d67"  />
 </div>
 
 ###
@@ -8,15 +8,9 @@
   <a href="https://www.linkedin.com/in/gabrielwalterarantes/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/gabriel_walter1/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://medium.com/@gabrielwalter003" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=GabrielWalter03.GabrielWalter03&"  />
 </div>
 
 ###
@@ -25,27 +19,18 @@
 
 ###
 
-<p align="left">Hi i´m Gabriel Arantes<br><br>- 🔭 I’m looking for my first job<br>- 📚 I'm currently learning Java</p>
+<p align="left">Hi i´m Gabriel Walter Arantes<br><br>- 🔭 I’m working as Data Scientist</p>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
 </div>
 
 ###
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielWalter03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
